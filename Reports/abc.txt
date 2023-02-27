@@ -1,0 +1,4 @@
+
+Scenario: log in functionality       # FeatureFile/fb.feature:2
+  Given user is on login page        # com.StepDefination.StepDefinationPractice.user_is_on_login_page()
+  When user enter firstname lastname # com.StepDefination.StepDefinationPractice.user_enter_firstname_lastname()
